@@ -78,7 +78,7 @@ export default function HeroSection() {
             className="cyber-glow cyber-border group"
             asChild
           >
-            <a href="mailto:allwrongthings@gmail.com">
+            <a href="mailto:nikhil@cywreck.com">
               <Mail className="mr-2 h-5 w-5" />
               Contact Me
             </a>
